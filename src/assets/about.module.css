@@ -1,0 +1,9 @@
+.about{
+    margin: 50px 10%;
+}
+.about p{
+    font-size: 20px;
+    line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
