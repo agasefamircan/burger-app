@@ -1,0 +1,19 @@
+.footer {
+  display: block;
+  text-align: center;
+  height: 100px;
+  background-color: orange;
+}
+.social {
+  display: flex;
+  padding-top: 10px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.social svg{
+    width: 2rem;
+    height: 2rem;
+    color: #fff;
+}
