@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  padding: 20px 15%;
+  background-color: #fff;
+}
+.logo {
+  width: 100px;
+  height: 80px;
+}
+.list {
+  display: flex;
+  gap: 30px;
+}
+.list li {
+  padding-top: 10px;
+  list-style-type: none;
+  font-size: 20px;
+  color: orange;
+}
+.list a {
+  text-decoration: none;
+}
